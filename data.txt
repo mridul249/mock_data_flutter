@@ -31,22 +31,6 @@
         "offerColor": "#00C853",
         "statusColor": "#00C853"
       }
-    },
-    {
-      "id": "3",
-      "merchantName": "SBI Card",
-      "merchantLogo": "SBI",
-      "accountNumber": "XXXX XXXX 1236",
-      "amount": 15420,
-      "dueStatus": "OVERDUE",
-      "flipperConfig": {
-        "enabled": true,
-        "offerText": "PAY NOW",
-        "statusText": "OVERDUE",
-        "flipDuration": 1000,
-        "offerColor": "#F44336",
-        "statusColor": "#F44336"
-      }
     }
   ]
 }
