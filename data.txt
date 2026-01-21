@@ -1,0 +1,164 @@
+{
+  "bills": [
+    {
+      "id": "1",
+      "merchantName": "ICICI Bank",
+      "merchantLogo": "ICICI",
+      "accountNumber": "XXXX XXXX 9006",
+      "amount": 881.16,
+      "dueStatus": "AUTOPAY IN 8 DAYS",
+      "flipperConfig": {
+        "enabled": true,
+        "offerText": "AUTOPAY IN 8 DAYS",
+        "statusText": "DUE IN 8 DAYS",
+        "flipDuration": 1000,
+        "offerColor": "#00C853",
+        "statusColor": "#00C853"
+      }
+    },
+    {
+      "id": "2",
+      "merchantName": "HDFC Bank",
+      "merchantLogo": "HDFC",
+      "accountNumber": "XXXX XXXX 2967",
+      "amount": 71283,
+      "dueStatus": "AUTOPAY IN 9 DAYS",
+      "flipperConfig": {
+        "enabled": true,
+        "offerText": "AUTOPAY IN 9 DAYS",
+        "statusText": "DUE IN 9 DAYS",
+        "flipDuration": 1000,
+        "offerColor": "#00C853",
+        "statusColor": "#00C853"
+      }
+    },
+    {
+      "id": "3",
+      "merchantName": "SBI Card",
+      "merchantLogo": "SBI",
+      "accountNumber": "XXXX XXXX 1236",
+      "amount": 15420,
+      "dueStatus": "OVERDUE",
+      "flipperConfig": {
+        "enabled": true,
+        "offerText": "PAY NOW",
+        "statusText": "OVERDUE",
+        "flipDuration": 1000,
+        "offerColor": "#F44336",
+        "statusColor": "#F44336"
+      }
+    },
+    {
+      "id": "4",
+      "merchantName": "Airtel",
+      "merchantLogo": "Airtel",
+      "accountNumber": "9876543210",
+      "amount": 599,
+      "dueStatus": "DUE TODAY",
+      "flipperConfig": {
+        "enabled": true,
+        "offerText": "DUE TODAY",
+        "statusText": "PAY NOW",
+        "flipDuration": 1000,
+        "offerColor": "#FF9800",
+        "statusColor": "#FF9800"
+      }
+    },
+    {
+      "id": "5",
+      "merchantName": "Netflix",
+      "merchantLogo": "Netflix",
+      "accountNumber": "Premium Plan",
+      "amount": 649,
+      "dueStatus": "AUTOPAY IN 5 DAYS",
+      "flipperConfig": {
+        "enabled": true,
+        "offerText": "AUTOPAY IN 5 DAYS",
+        "statusText": "RENEWING SOON",
+        "flipDuration": 1000,
+        "offerColor": "#00C853",
+        "statusColor": "#00C853"
+      }
+    },
+    {
+      "id": "6",
+      "merchantName": "Amazon Pay",
+      "merchantLogo": "Amazon",
+      "accountNumber": "XXXX XXXX 7890",
+      "amount": 1250,
+      "dueStatus": "DUE TODAY",
+      "flipperConfig": {
+        "enabled": true,
+        "offerText": "DUE TODAY",
+        "statusText": "PAY ₹1,250",
+        "flipDuration": 1000,
+        "offerColor": "#FF9800",
+        "statusColor": "#FF9800"
+      }
+    },
+    {
+      "id": "7",
+      "merchantName": "Electricity Board",
+      "merchantLogo": "BESCOM",
+      "accountNumber": "123456789012",
+      "amount": 3420,
+      "dueStatus": "AUTOPAY IN 3 DAYS",
+      "flipperConfig": {
+        "enabled": true,
+        "offerText": "AUTOPAY IN 3 DAYS",
+        "statusText": "DUE IN 3 DAYS",
+        "flipDuration": 1000,
+        "offerColor": "#00C853",
+        "statusColor": "#00C853"
+      }
+    },
+    {
+      "id": "8",
+      "merchantName": "Jio Fiber",
+      "merchantLogo": "Jio",
+      "accountNumber": "JIO-88776655",
+      "amount": 999,
+      "dueStatus": "AUTOPAY TOMORROW",
+      "flipperConfig": {
+        "enabled": true,
+        "offerText": "AUTOPAY TOMORROW",
+        "statusText": "DUE TOMORROW",
+        "flipDuration": 1000,
+        "offerColor": "#00C853",
+        "statusColor": "#FF9800"
+      }
+    },
+    {
+      "id": "9",
+      "merchantName": "Water Supply",
+      "merchantLogo": "BWSSB",
+      "accountNumber": "WS-45678",
+      "amount": 580,
+      "dueStatus": "AUTOPAY IN 7 DAYS",
+      "flipperConfig": {
+        "enabled": true,
+        "offerText": "AUTOPAY IN 7 DAYS",
+        "statusText": "DUE IN 7 DAYS",
+        "flipDuration": 1000,
+        "offerColor": "#00C853",
+        "statusColor": "#00C853"
+      }
+    },
+    {
+      "id": "10",
+      "merchantName": "HP Gas",
+      "merchantLogo": "HP Gas",
+      "accountNumber": "987654321098",
+      "amount": 950,
+      "dueStatus": "DUE TODAY",
+      "flipperConfig": {
+        "enabled": true,
+        "offerText": "DUE TODAY",
+        "statusText": "BOOK CYLINDER",
+        "flipDuration": 1000,
+        "offerColor": "#FF9800",
+        "statusColor": "#FF9800"
+      }
+    }
+  ]
+}
