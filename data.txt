@@ -47,6 +47,22 @@
         "offerColor": "#F44336",
         "statusColor": "#F44336"
       }
+    },
+    {
+      "id": "4",
+      "merchantName": "Airtel",
+      "merchantLogo": "Airtel",
+      "accountNumber": "9876543210",
+      "amount": 599,
+      "dueStatus": "DUE TODAY",
+      "flipperConfig": {
+        "enabled": true,
+        "offerText": "DUE TODAY",
+        "statusText": "PAY NOW",
+        "flipDuration": 1000,
+        "offerColor": "#FF9800",
+        "statusColor": "#FF9800"
+      }
     }
   ]
 }
